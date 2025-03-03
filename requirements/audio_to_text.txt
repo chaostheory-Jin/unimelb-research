@@ -1,0 +1,12 @@
+# Common dependencies
+torch>=1.10.0
+numpy>=1.20.0
+librosa>=0.8.1
+transformers>=4.18.0
+
+# Whisper dependencies
+openai-whisper>=20230314
+
+# Wav2Vec2 and HuBERT dependencies
+datasets>=2.0.0
+jiwer>=2.3.0 
