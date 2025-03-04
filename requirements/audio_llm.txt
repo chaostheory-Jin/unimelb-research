@@ -1,0 +1,15 @@
+# Common dependencies
+torch>=1.10.0
+numpy>=1.20.0
+librosa>=0.8.1
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Whisper dependencies
+openai-whisper>=20230314
+
+# Seamless M4T dependencies
+sentencepiece>=0.1.99
+
+# Qwen Audio dependencies
+einops>=0.6.0 
