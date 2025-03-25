@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:00:00.000Z" agent="Mozilla/5.0" version="21.6.6" etag="your-etag" type="device">
+  <diagram id="emotion-recognition-workflow" name="Emotion Recognition and Response Workflow">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Title -->
+        <mxCell id="title" value="Audio-Based Emotion Recognition and Response System Workflow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="700" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Main Phases -->
+        <mxCell id="phase1" value="Data Preparation Phase" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase2" value="Response Strategy Library Development" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase3" value="Model Fine-tuning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase4" value="Strategy Implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="740" y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase5" value="Integrated System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="510" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="phase6" value="Evaluation Framework" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="240" height="60" as="geometry" />
+        </mxCell>
+        
+        <!-- Connections between main phases -->
+        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phase1" target="phase3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phase2" target="phase4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phase3" target="phase5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="phase4" target="phase5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="phase5" target="phase6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Data Preparation Phase details -->
+        <mxCell id="dp1" value="1. Acquire SER datasets (CREMA-D, IEMOCAP, MSP-Podcast)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dp2" value="2. Prepare multi-turn dialogues with emotions" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="220" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dp3" value="3. Annotate emotion transitions in conversations" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="dp4" value="4. Create evaluation test sets" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Response Strategy Library Development details -->
+        <mxCell id="rs1" value="1. Literature review of empirical psychology" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="180" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="rs2" value="2. Define emotion transitions and appropriate responses" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="220" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="rs3" value="3. Develop response templates for each strategy" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="rs4" value="4. Create emotion transition response matrix" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="300" width="240" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Model Fine-tuning details -->
+        <mxCell id="mf1" value="1. Configure QWEN2-audio base model" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="mf2" value="2. Fine-tune on SER datasets for emotion recognition" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="mf3" value="3. Add emotion tracking capability" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="mf4" value="4. Train on multi-turn dialogue with emotion transitions" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Strategy Implementation details -->
+        <mxCell id="si1" value="1. Formalize emotion transition detection rules" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="si2" value="2. Implement response selection logic" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="si3" value="3. Create evaluation metrics for strategy appropriateness" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="480" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="si4" value="4. Develop integration API with QWEN2-audio" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="740" y="510" width="240" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Integrated System details -->
+        <mxCell id="is1" value="Audio Processing Pipeline" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="100" height="50" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="is2" value="Emotion Recognition Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="100" height="50" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="is3" value="Emotion Transition Tracker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="100" height="50" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="is4" value="Response Strategy Selection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="690" y="580" width="100" height="50" as="geometry" />
+        </mxCell>
+        
+        <!-- Evaluation Framework details -->
+        <mxCell id="ef1" value="Metrics:&#xa;1. Emotion recognition accuracy&#xa;2. Emotion transition detection accuracy&#xa;3. Response strategy appropriateness&#xa;4. Overall conversation quality&#xa;5. User satisfaction" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="360" y="740" width="430" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Connecting lines between integrated system components -->
+        <mxCell id="is_conn1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="is1" target="is2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="490" as="sourcePoint" />
+            <mxPoint x="580" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="is_conn2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="is2" target="is3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="490" as="sourcePoint" />
+            <mxPoint x="580" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <mxCell id="is_conn3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="is3" target="is4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="490" as="sourcePoint" />
+            <mxPoint x="580" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
