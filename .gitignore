@@ -29,3 +29,6 @@ logs/
 # Local configuration
 .env
 .env.local 
+
+#dataset
+dataset/

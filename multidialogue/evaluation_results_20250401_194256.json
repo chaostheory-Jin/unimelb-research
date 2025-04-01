@@ -1,0 +1,26 @@
+{
+  "total_evaluated": 2,
+  "correct_predictions": 2,
+  "accuracy": 1.0,
+  "detailed_results": [
+    {
+      "id": "Ses01F_impro01_F000",
+      "audio_path": "C:\\Users\\luoya\\Desktop\\unimelb-research\\dataset\\IEMOCAP\\IEMOCAP_full_release\\Session1\\sentences\\wav\\Ses01F_impro01\\Ses01F_impro01_F000.wav",
+      "true_emotion": "Neutral state",
+      "predicted_emotion": "Neutral state",
+      "true_emotion_mapped": "neutral",
+      "predicted_emotion_mapped": "neutral",
+      "is_correct": true
+    },
+    {
+      "id": "Ses01F_impro01_F001",
+      "audio_path": "C:\\Users\\luoya\\Desktop\\unimelb-research\\dataset\\IEMOCAP\\IEMOCAP_full_release\\Session1\\sentences\\wav\\Ses01F_impro01\\Ses01F_impro01_F001.wav",
+      "true_emotion": "Neutral state",
+      "predicted_emotion": "Neutral state",
+      "true_emotion_mapped": "neutral",
+      "predicted_emotion_mapped": "neutral",
+      "is_correct": true
+    }
+  ],
+  "gpt_responses": []
+}
