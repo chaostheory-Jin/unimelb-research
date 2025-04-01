@@ -7,7 +7,7 @@
       "id": "Ses01F_impro01_F000",
       "audio_path": "C:\\Users\\luoya\\Desktop\\unimelb-research\\dataset\\IEMOCAP\\IEMOCAP_full_release\\Session1\\sentences\\wav\\Ses01F_impro01\\Ses01F_impro01_F000.wav",
       "true_emotion": "Neutral state",
-      "predicted_emotion": "Disgust.",
+      "predicted_emotion": "angry.",
       "true_emotion_mapped": "neutral",
       "predicted_emotion_mapped": "angry",
       "is_correct": false

@@ -1,0 +1,23 @@
+   # 上传单个文件
+   python file_search_module.py upload --file "path/to/document.pdf"
+   
+   # 上传目录中的所有文件
+   python file_search_module.py upload --directory "path/to/documents" --recursive
+   
+   # 仅上传特定类型的文件
+   python file_search_module.py upload --directory "path/to/documents" --file-types .txt .pdf .docx
+   
+   # 列出已上传的文件
+   python file_search_module.py list
+   
+   # 在文件中搜索
+   python file_search_module.py search --query "查找关于情绪识别的信息"
+   
+   # 删除文件
+   python file_search_module.py delete --file-id file-abc123
+   
+   # 保存元数据
+   python file_search_module.py save --file "file_metadata.json"
+   
+   # 加载元数据
+   python file_search_module.py load --file "file_metadata.json"
