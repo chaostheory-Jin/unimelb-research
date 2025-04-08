@@ -9,9 +9,17 @@ from typing import Dict, List
 from tqdm import tqdm
 from datetime import datetime
 import logging
+import sys
 
 class AudioEmotionEvaluator:
-    def __init__(self, log_file: str = None):
+    def __init__(self, log_file: str = None, api_key: str = None):
+        """
+        Initialize the evaluator
+        
+        Args:
+            log_file: Path to log file (optional)
+            api_key: OpenAI API key (optional, will try environment variable if not provided)
+        """
         # Initialize logger
         self.logger = logging.getLogger('AudioEmotionEvaluator')
         self.logger.setLevel(logging.INFO)
@@ -47,7 +55,15 @@ class AudioEmotionEvaluator:
         }
         
         # Initialize OpenAI client
-        self.client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        api_key = api_key or os.environ.get("OPENAI_API_KEY")
+        if not api_key:
+            raise ValueError(
+                "OpenAI API key not found. Please provide it either through the api_key parameter "
+                "or by setting the OPENAI_API_KEY environment variable."
+            )
+        
+        self.client = OpenAI(api_key=api_key)
+        self.logger.info("OpenAI client initialized successfully")
         
         # Initialize GPT response storage
         self.gpt_responses = []
@@ -180,16 +196,29 @@ class AudioEmotionEvaluator:
         raise FileNotFoundError(f"Audio file not found: {utterance_id}")
 
     def evaluate_emotions(self, json_file_path: str, max_samples: int, iemocap_root: str) -> Dict:
-        """Evaluate emotion recognition accuracy"""
+        """
+        Evaluate emotion recognition accuracy
+        
+        Args:
+            json_file_path: Path to the JSON file containing emotion data
+            max_samples: Maximum number of samples to evaluate (-1 for all samples)
+            iemocap_root: Root directory of IEMOCAP dataset
+        """
         try:
             with open(json_file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
+            # Handle full dataset testing
+            if max_samples == -1:
+                sample_data = data
+                self.logger.info(f"Running full dataset evaluation with {len(data)} samples")
+            else:
+                sample_data = data[:max_samples]
+                self.logger.info(f"Running evaluation with {len(sample_data)} samples")
+            
             results = []
             total_samples = 0
             correct_samples = 0
-            
-            sample_data = data[:max_samples]
             
             # Process samples with progress bar
             for item in tqdm(sample_data, desc="Processing audio samples", unit="sample"):
@@ -253,26 +282,48 @@ class AudioEmotionEvaluator:
 def main():
     parser = argparse.ArgumentParser(description='IEMOCAP Audio Emotion Evaluation Tool')
     parser.add_argument('--data', type=str, required=True,
-                        help='Path to IEMOCAP JSON file (relative to project root)')
+                      help='Path to IEMOCAP JSON file (relative to project root)')
     parser.add_argument('--max_samples', type=int, default=10,
-                        help='Maximum number of samples to evaluate')
+                      help='Maximum number of samples to evaluate (use -1 for full dataset)')
     parser.add_argument('--iemocap_root', type=str, required=True,
-                        help='Path to IEMOCAP root directory (relative to project root)')
+                      help='Path to IEMOCAP root directory (relative to project root)')
     parser.add_argument('--log_file', type=str,
-                        help='Path to log file (optional)')
+                      help='Path to log file (optional)')
+    parser.add_argument('--api_key', type=str,
+                      help='OpenAI API key (optional, will use environment variable if not provided)')
     
     args = parser.parse_args()
 
-    evaluator = AudioEmotionEvaluator(args.log_file)
-    
-    data_path = evaluator.get_absolute_path(args.data)
-    iemocap_root = evaluator.get_absolute_path(args.iemocap_root)
-    
-    evaluator.evaluate_emotions(
-        data_path,
-        args.max_samples,
-        iemocap_root
-    )
+    try:
+        evaluator = AudioEmotionEvaluator(args.log_file, args.api_key)
+        
+        data_path = evaluator.get_absolute_path(args.data)
+        iemocap_root = evaluator.get_absolute_path(args.iemocap_root)
+        
+        # Add information about test scope
+        if args.max_samples == -1:
+            print("\nStarting full dataset evaluation...")
+        else:
+            print(f"\nStarting evaluation with {args.max_samples} samples...")
+        
+        results = evaluator.evaluate_emotions(
+            data_path,
+            args.max_samples,
+            iemocap_root
+        )
+        
+        print("\nEvaluation completed successfully!")
+        print(f"Total samples evaluated: {results['total_evaluated']}")
+        print(f"Correct predictions: {results['correct_predictions']}")
+        print(f"Accuracy: {results['accuracy']:.2%}")
+        print(f"Detailed results saved to: evaluation_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json")
+        
+    except Exception as e:
+        print(f"\nError: {str(e)}")
+        print("\nIf the error is related to the API key, you can:")
+        print("1. Set the OPENAI_API_KEY environment variable, or")
+        print("2. Provide the API key directly using the --api_key parameter")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main() 
