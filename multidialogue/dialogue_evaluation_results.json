@@ -1,0 +1,272 @@
+{
+  "summary": {
+    "samples_count": 10,
+    "emotion_aware": {
+      "rouge1": 0.22897800798302562,
+      "rouge2": 0.023787644787644786,
+      "rougeL": 0.1478412252374033,
+      "bleu": 0.02055454836911886,
+      "perplexity": 1.0
+    },
+    "baseline": {
+      "rouge1": 0.22967401940018575,
+      "rouge2": 0.005263157894736843,
+      "rougeL": 0.13240759245323136,
+      "bleu": 0.011764770202291993,
+      "perplexity": 1.0
+    },
+    "improvement": {
+      "rouge1": -0.003030431648202231,
+      "rouge2": 3.5196525096525084,
+      "rougeL": 0.11656153924574512,
+      "bleu": 0.7471270594910946,
+      "perplexity": 0.0
+    },
+    "emotion_distribution": {
+      "neutral": 0.3,
+      "frustrated": 0.7
+    }
+  },
+  "samples": [
+    {
+      "id": "Ses01F_impro01_F000",
+      "emotion": "neutral",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "Thank you for your input. If you have any questions or need assistance, feel free to let me know.",
+      "baseline_response": "Got it! If you need any specific information or have questions, feel free to let me know.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.29411764705882354,
+          "rouge2": 0.0,
+          "rougeL": 0.17647058823529413,
+          "bleu": 0.01340082578177889,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.25,
+          "rouge2": 0.0,
+          "rougeL": 0.125,
+          "bleu": 0.013679192123121896,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F001",
+      "emotion": "neutral",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "Thank you for your message. If you need assistance or have any questions, feel free to let me know.",
+      "baseline_response": "Got it! If you need any help or have any questions, feel free to ask.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.29411764705882354,
+          "rouge2": 0.0,
+          "rougeL": 0.17647058823529413,
+          "bleu": 0.01340082578177889,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.26666666666666666,
+          "rouge2": 0.0,
+          "rougeL": 0.13333333333333333,
+          "bleu": 0.015718877363021206,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F002",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "Thank you for the test sentence. Is there anything specific you'd like to discuss or explore today?",
+      "baseline_response": "Got it! Let me know if there's anything specific you'd like to discuss or need help with.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.1212121212121212,
+          "rouge2": 0.0,
+          "rougeL": 0.0606060606060606,
+          "bleu": 0.011502783619900045,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.29411764705882354,
+          "rouge2": 0.0,
+          "rougeL": 0.11764705882352941,
+          "bleu": 0.015138514598766055,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F003",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "I see you're running a test. If there's anything specific you need help with or if something's not working as expected, feel free to let me know. I'm here to assist you!",
+      "baseline_response": "Got it! If you have any questions or need assistance with anything, feel free to let me know.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.23529411764705882,
+          "rouge2": 0.0,
+          "rougeL": 0.11764705882352941,
+          "bleu": 0.007678432706586176,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.2424242424242424,
+          "rouge2": 0.0,
+          "rougeL": 0.1212121212121212,
+          "bleu": 0.01284618972676772,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F004",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "It seems like something might be on your mind. If there's anything specific you'd like to discuss or if there's a concern you have, I'm here to listen and help. Let me know how I can assist you!",
+      "baseline_response": "Got it! If you need help with anything specific or have any questions, feel free to let me know.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.21052631578947364,
+          "rouge2": 0.0,
+          "rougeL": 0.14035087719298245,
+          "bleu": 0.006414921514603761,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.29411764705882354,
+          "rouge2": 0.0,
+          "rougeL": 0.11764705882352941,
+          "bleu": 0.01340082578177889,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F005",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "It looks like you're testing something out. Is there anything specific you need assistance with or are you running into any issues? Let me know how I can help!",
+      "baseline_response": "Got it! If you have any other sentences or questions you'd like to test out, feel free to share. I'm here to help!",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.2222222222222222,
+          "rouge2": 0.0,
+          "rougeL": 0.08888888888888888,
+          "bleu": 0.006471824245088331,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.2,
+          "rouge2": 0.052631578947368425,
+          "rougeL": 0.15,
+          "bleu": 0.008282282660969604,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F006",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "I’m sorry to hear that you're feeling frustrated. Would you like to tell me more about what’s been causing your frustration?",
+      "baseline_response": "Got it! If you have any questions or need assistance, feel free to ask.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.4102564102564102,
+          "rouge2": 0.16216216216216214,
+          "rougeL": 0.4102564102564102,
+          "bleu": 0.1258220555845937,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.20689655172413796,
+          "rouge2": 0.0,
+          "rougeL": 0.1379310344827586,
+          "bleu": 0.01428363257865929,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F007",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "I can see that you're feeling frustrated right now. Would you like to share what's been happening that's causing this frustration? I'm here to help. Let's see if we can find a way to work through this together.",
+      "baseline_response": "Got it! If you have any questions or need assistance with anything, feel free to let me know.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.13793103448275862,
+          "rouge2": 0.03571428571428571,
+          "rougeL": 0.10344827586206895,
+          "bleu": 0.0048742862874500996,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.2424242424242424,
+          "rouge2": 0.0,
+          "rougeL": 0.1212121212121212,
+          "bleu": 0.01284618972676772,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F008",
+      "emotion": "neutral",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "It sounds like you're testing something out. If there's anything specific you'd like assistance with or if you have any questions, feel free to let me know!",
+      "baseline_response": "It looks like you're testing the system. How can I assist you further?",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.13333333333333333,
+          "rouge2": 0.0,
+          "rougeL": 0.08888888888888888,
+          "bleu": 0.008301095462822575,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.1379310344827586,
+          "rouge2": 0.0,
+          "rougeL": 0.1379310344827586,
+          "bleu": 0,
+          "perplexity": 1.0
+        }
+      }
+    },
+    {
+      "id": "Ses01F_impro01_F009",
+      "emotion": "frustrated",
+      "context": "This is a test sentence.",
+      "reference": "I'll do my best to help you. Please tell me more about your needs.",
+      "emotion_aware_response": "It seems like you're feeling frustrated. If there's anything specific that's bothering you or if there's something I can assist with, please feel free to let me know. I'm here to help!",
+      "baseline_response": "Alright! If there's anything specific you'd like to discuss or any questions you have, feel free to let me know.",
+      "metrics": {
+        "emotion_aware": {
+          "rouge1": 0.23076923076923078,
+          "rouge2": 0.04,
+          "rougeL": 0.11538461538461539,
+          "bleu": 0.007678432706586176,
+          "perplexity": 1.0
+        },
+        "baseline": {
+          "rouge1": 0.16216216216216214,
+          "rouge2": 0.0,
+          "rougeL": 0.16216216216216214,
+          "bleu": 0.011451997463067555,
+          "perplexity": 1.0
+        }
+      }
+    }
+  ]
+}
