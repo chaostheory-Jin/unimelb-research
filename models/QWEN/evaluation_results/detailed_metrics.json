@@ -1,0 +1,120 @@
+{
+    "accuracy": 0.1294820717131474,
+    "class_counts": {
+        "angry": 260,
+        "happy": 534,
+        "frustrated": 532,
+        "sad": 247,
+        "neutral": 435
+    },
+    "precision_per_class": {
+        "angry": 0.1294820717131474,
+        "happy": 0.0,
+        "frustrated": 0.0,
+        "sad": 0.0,
+        "neutral": 0.0
+    },
+    "recall_per_class": {
+        "angry": 1.0,
+        "happy": 0.0,
+        "frustrated": 0.0,
+        "sad": 0.0,
+        "neutral": 0.0
+    },
+    "f1_per_class": {
+        "angry": 0.2292768959435626,
+        "happy": 0.0,
+        "frustrated": 0.0,
+        "sad": 0.0,
+        "neutral": 0.0
+    },
+    "support_per_class": {
+        "angry": 260.0,
+        "happy": 534.0,
+        "frustrated": 532.0,
+        "sad": 247.0,
+        "neutral": 435.0
+    },
+    "confusion_matrix": [
+        [
+            260,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            534,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            532,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            247,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            435,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "report": {
+        "angry": {
+            "precision": 0.1294820717131474,
+            "recall": 1.0,
+            "f1-score": 0.2292768959435626,
+            "support": 260.0
+        },
+        "frustrated": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 532.0
+        },
+        "happy": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 534.0
+        },
+        "neutral": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 435.0
+        },
+        "sad": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "f1-score": 0.0,
+            "support": 247.0
+        },
+        "accuracy": 0.1294820717131474,
+        "macro avg": {
+            "precision": 0.02589641434262948,
+            "recall": 0.2,
+            "f1-score": 0.04585537918871252,
+            "support": 2008.0
+        },
+        "weighted avg": {
+            "precision": 0.016765606895128647,
+            "recall": 0.1294820717131474,
+            "f1-score": 0.029687247482732212,
+            "support": 2008.0
+        }
+    }
+}
