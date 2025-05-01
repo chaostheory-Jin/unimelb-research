@@ -1,0 +1,5 @@
+预测分布:
+identify the emotion in this audio, choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral: 44 (44.0%)
+identify the emotion in this audio, choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.: 36 (36.0%)
+identify the emotion in this audio, choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy: 11 (11.0%)
+identify the emotion in this audio, choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad: 9 (9.0%)

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "Ses02F_script01_3_M025",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_F",
+    "groundtruth": "What have I got to hide?  What the hell is the matter with you Kate?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_M025.wav"
+  },
+  {
+    "id": "Ses01M_script03_2_M001",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "However, I do believe the real cause of that row was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_2/Ses01M_script03_2_M001.wav"
+  },
+  {
+    "id": "Ses01F_script01_1_F017",
+    "emotion": [
+      "Anger",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "That's how you get the big bucks.  Are you messing with the chair? Don't ruin it.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_F017.wav"
+  },
+  {
+    "id": "Ses01F_script01_1_F036",
+    "emotion": [
+      "Other",
+      "Frustration",
+      "Surprise"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "That's how you get the big bucks.  Are you messing with the chair? Don't ruin it.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_F036.wav"
+  },
+  {
+    "id": "Ses02F_script01_1_F024",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "Okay.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_F024.wav"
+  },
+  {
+    "id": "Ses05M_script02_1_F005",
+    "emotion": [
+      "Sadness",
+      "Anger",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "I'm cold.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script02_1/Ses05M_script02_1_F005.wav"
+  },
+  {
+    "id": "Ses04M_script01_1_M031",
+    "emotion": [
+      "Anger",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_M",
+    "groundtruth": "Alright, then, mom.  Did we skip something?  No.  Alright, then, mom.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_script01_1/Ses04M_script01_1_M031.wav"
+  },
+  {
+    "id": "Ses04M_script02_2_F019",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_M",
+    "groundtruth": "Well so what did you think?",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_script02_2/Ses04M_script02_2_F019.wav"
+  },
+  {
+    "id": "Ses01F_script03_2_M008",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "However I believe the real cause of that row was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_2/Ses01F_script03_2_M008.wav"
+  },
+  {
+    "id": "Ses03F_impro08_M004",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "Fine, sorry.  Okay, my phone's been on the fritz for like three days.  I can't get any incoming calls. What- What is going on?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro08/Ses03F_impro08_M004.wav"
+  },
+  {
+    "id": "Ses02M_script01_2_M004",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_M",
+    "groundtruth": "How do you know he's even thinking of it?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_script01_2/Ses02M_script01_2_M004.wav"
+  },
+  {
+    "id": "Ses01M_script02_2_F003",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_M",
+    "groundtruth": "It's a PR.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script02_2/Ses01M_script02_2_F003.wav"
+  },
+  {
+    "id": "Ses05F_impro01_M012",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "I am a very compassionate person, and I'm offended that you imply that I'm not.  Of course, I'm compassionate.  Look, I work in the D.M.V..  What do you think I am?  Go wait in line two A.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_impro01/Ses05F_impro01_M012.wav"
+  },
+  {
+    "id": "Ses02M_impro07_F020",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_M",
+    "groundtruth": "Okay. They have a lot of good schools, right?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F020.wav"
+  },
+  {
+    "id": "Ses05F_impro08_M012",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "Okay.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_M012.wav"
+  },
+  {
+    "id": "Ses05M_impro04_F033",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "What else?  I can't -- uh.  I'm drawing a blank here.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_impro04/Ses05M_impro04_F033.wav"
+  },
+  {
+    "id": "Ses02F_script01_3_M036",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_F",
+    "groundtruth": "What have I got to hide?  What the hell is the matter with you Kate?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_3/Ses02F_script01_3_M036.wav"
+  },
+  {
+    "id": "Ses02F_impro05_F008",
+    "emotion": [
+      "Anger",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "I need my stuff.  It's--I need my stuff.  I mean, uh...",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_impro05/Ses02F_impro05_F008.wav"
+  },
+  {
+    "id": "Ses03F_impro02_F022",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "But you're so good with her. You know, she knows you better than she knows me 'cause I'm at work every day.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F022.wav"
+  },
+  {
+    "id": "Ses01F_script02_2_M027",
+    "emotion": [
+      "Frustration",
+      "Other",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "What?  What?  Do you want a divorce?",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M027.wav"
+  },
+  {
+    "id": "Ses04F_script01_1_F003",
+    "emotion": [
+      "Frustration",
+      "Surprise",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_F",
+    "groundtruth": "What was he doing out here at four in the morning?",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_script01_1/Ses04F_script01_1_F003.wav"
+  },
+  {
+    "id": "Ses02F_script02_2_F010",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "No, we won't.  It's pointless.  It's like waiting up to see Santa Claus.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script02_2/Ses02F_script02_2_F010.wav"
+  },
+  {
+    "id": "Ses03M_impro08a_M014",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "I didn't put you on hold.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M014.wav"
+  },
+  {
+    "id": "Ses05F_script02_2_M016",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "Well, So what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_M016.wav"
+  },
+  {
+    "id": "Ses03F_script02_2_M033",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "No, I know. Me neither.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script02_2/Ses03F_script02_2_M033.wav"
+  },
+  {
+    "id": "Ses03M_impro02_F010",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "You can't.  We need you.  I need you.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro02/Ses03M_impro02_F010.wav"
+  },
+  {
+    "id": "Ses03F_impro02_F031",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_F",
+    "groundtruth": "and if we survive, if we survive that then babe, you know you know we could survive any--",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F031.wav"
+  },
+  {
+    "id": "Ses02F_script01_2_M004",
+    "emotion": [
+      "Neutral state",
+      "Frustration",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "How do you know he's even thinking of it?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_M004.wav"
+  },
+  {
+    "id": "Ses05M_impro03_F001",
+    "emotion": [
+      "Surprise",
+      "Surprise",
+      "Surprise"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "What? you did?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_F001.wav"
+  },
+  {
+    "id": "Ses03F_script02_1_M007",
+    "emotion": [
+      "Frustration",
+      "Surprise",
+      "Happiness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "Huh? What the hell's the matter with you, Kate?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_M007.wav"
+  },
+  {
+    "id": "Ses02F_script01_1_F012",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "Okay.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_1/Ses02F_script01_1_F012.wav"
+  },
+  {
+    "id": "Ses01M_impro03_F007",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "hy did she pick you? Where were you?",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F007.wav"
+  },
+  {
+    "id": "Ses03M_script03_2_M041",
+    "emotion": [
+      "Anger",
+      "Anger",
+      "Anger"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_M",
+    "groundtruth": "The real cause of that rile was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M041.wav"
+  },
+  {
+    "id": "Ses01M_impro03_M013",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "Oh good idea.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_M013.wav"
+  },
+  {
+    "id": "Ses01F_script02_1_F010",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_F",
+    "groundtruth": "Annie, Annie.  I am going to make a fortune for you.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_1/Ses01F_script02_1_F010.wav"
+  },
+  {
+    "id": "Ses03M_impro06_F003",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_M",
+    "groundtruth": "Yeah.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro06/Ses03M_impro06_F003.wav"
+  },
+  {
+    "id": "Ses05F_impro01_M021",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "I don't know who told you that but they were wrong.  I'm sorry.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_impro01/Ses05F_impro01_M021.wav"
+  },
+  {
+    "id": "Ses04M_impro06_M002",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_M",
+    "groundtruth": "a major part of your life and then they're gone.  And I don't know.  That's not really -- it's never really happened to me before.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_impro06/Ses04M_impro06_M002.wav"
+  },
+  {
+    "id": "Ses05M_impro02_M002",
+    "emotion": [
+      "Sadness",
+      "Neutral state",
+      "Fear"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "I know. I have to go-",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_impro02/Ses05M_impro02_M002.wav"
+  },
+  {
+    "id": "Ses01F_script01_1_M023",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "That's how you get the big bucks.  Are you messing with the chair? Don't ruin it.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script01_1/Ses01F_script01_1_M023.wav"
+  },
+  {
+    "id": "Ses04F_impro07_F064",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_F",
+    "groundtruth": "",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_F064.wav"
+  },
+  {
+    "id": "Ses05F_script02_1_F011",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "Not particularly.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script02_1/Ses05F_script02_1_F011.wav"
+  },
+  {
+    "id": "Ses05M_impro08_F003",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "And I'll reset the IP address.  I will do like, you know, direct connect the modem to my computer, and then reset everything, and then put the router back in. And-",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_impro08/Ses05M_impro08_F003.wav"
+  },
+  {
+    "id": "Ses04M_impro07_F031",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_M",
+    "groundtruth": "Paint some red and yellow S C on your face. And like get one of those big you know, number one hand things.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_F031.wav"
+  },
+  {
+    "id": "Ses03F_script03_1_M023",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_F",
+    "groundtruth": "The one when you bought that little painted wooden snake in the Piazza and put it in my bed.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script03_1/Ses03F_script03_1_M023.wav"
+  },
+  {
+    "id": "Ses03F_script01_3_F020",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Happiness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "Huh? What the hell's the matter with you, Kate?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script01_3/Ses03F_script01_3_F020.wav"
+  },
+  {
+    "id": "Ses03F_script01_1_F045",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "Oh, my God.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script01_1/Ses03F_script01_1_F045.wav"
+  },
+  {
+    "id": "Ses04M_impro03_F002",
+    "emotion": [
+      "Happiness",
+      "Surprise",
+      "Happiness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_M",
+    "groundtruth": "I can't -- how did you do it?  What happened?",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_impro03/Ses04M_impro03_F002.wav"
+  },
+  {
+    "id": "Ses04F_script03_1_M035",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_F",
+    "groundtruth": "What I said.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_M035.wav"
+  },
+  {
+    "id": "Ses01M_impro04_F017",
+    "emotion": [
+      "Neutral state",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "Like this, right now we're trying have a conversation.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_F017.wav"
+  },
+  {
+    "id": "Ses05F_script03_1_F021",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_F",
+    "groundtruth": "Well, So what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script03_1/Ses05F_script03_1_F021.wav"
+  },
+  {
+    "id": "Ses04F_script03_1_M025",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_F",
+    "groundtruth": "What I said.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_script03_1/Ses04F_script03_1_M025.wav"
+  },
+  {
+    "id": "Ses01F_script03_1_F012",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_F",
+    "groundtruth": "Who's they?",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script03_1/Ses01F_script03_1_F012.wav"
+  },
+  {
+    "id": "Ses04F_impro07_M041",
+    "emotion": [
+      "Happiness",
+      "Surprise",
+      "Happiness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_F",
+    "groundtruth": "Wait, you've been there before?",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M041.wav"
+  },
+  {
+    "id": "Ses05M_script01_2_M014",
+    "emotion": [
+      "Frustration",
+      "Surprise",
+      "Anger"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "No, you don't.  I'm a pretty tough guy.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script01_2/Ses05M_script01_2_M014.wav"
+  },
+  {
+    "id": "Ses05F_impro08_F019",
+    "emotion": [
+      "Neutral state",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_F",
+    "groundtruth": "Yeah, we- Somebody went in and- and cleared the problem and it looks like you're all paid.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_impro08/Ses05F_impro08_F019.wav"
+  },
+  {
+    "id": "Ses03F_impro03_F014",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_F",
+    "groundtruth": "He scored points.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro03/Ses03F_impro03_F014.wav"
+  },
+  {
+    "id": "Ses01F_impro02_M015",
+    "emotion": [
+      "Sadness",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_F",
+    "groundtruth": "I know.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro02/Ses01F_impro02_M015.wav"
+  },
+  {
+    "id": "Ses03F_impro02_F016",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "I know, but look, I have to take this. I mean, if I don't, I mean, I could get fired.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro02/Ses03F_impro02_F016.wav"
+  },
+  {
+    "id": "Ses04F_script03_2_F033",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Sadness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_F",
+    "groundtruth": "Turn it on again, please.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_script03_2/Ses04F_script03_2_F033.wav"
+  },
+  {
+    "id": "Ses01F_impro07_M011",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_F",
+    "groundtruth": "Ooh. Fancy.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro07/Ses01F_impro07_M011.wav"
+  },
+  {
+    "id": "Ses03M_impro08b_F006",
+    "emotion": [
+      "Anger",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "No I did not drop my phone in water.  I'm not five years old and just dropped my phone anywhere I see it.  Okay this is my business.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro08b/Ses03M_impro08b_F006.wav"
+  },
+  {
+    "id": "Ses03M_impro04_M035",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "I don't know.  I don't know.  I know I'm just going to have to keep on looking, keep on searching-",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro04/Ses03M_impro04_M035.wav"
+  },
+  {
+    "id": "Ses01M_impro04_M011",
+    "emotion": [
+      "Frustration",
+      "Happiness",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_M",
+    "groundtruth": "Are you hiring? Wait, do you know of a job? Seriously, do you know, like do you know of anything though?  Like, oh please, do you know of anything?",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro04/Ses01M_impro04_M011.wav"
+  },
+  {
+    "id": "Ses03F_script03_1_F011",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_F",
+    "groundtruth": "Well, if I laugh at everything I'm going to have to laugh at us too.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script03_1/Ses03F_script03_1_F011.wav"
+  },
+  {
+    "id": "Ses05M_script01_1b_F011",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "You can talk yourself blue in the face but there's no body and there's no grave.  So where are you?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script01_1b/Ses05M_script01_1b_F011.wav"
+  },
+  {
+    "id": "Ses01M_script03_1_M030",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "before your body rots and worms pop out of your eye sockets.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_script03_1/Ses01M_script03_1_M030.wav"
+  },
+  {
+    "id": "Ses03M_script03_1_M030",
+    "emotion": [
+      "Happiness",
+      "Disgust",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "I hated it.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_script03_1/Ses03M_script03_1_M030.wav"
+  },
+  {
+    "id": "Ses01F_script02_2_M009",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses01_F",
+    "groundtruth": "Why not?",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_script02_2/Ses01F_script02_2_M009.wav"
+  },
+  {
+    "id": "Ses05F_script02_2_F012",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "Well, So what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F012.wav"
+  },
+  {
+    "id": "Ses04M_script01_1_M043",
+    "emotion": [
+      "Other",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_M",
+    "groundtruth": "I am thinking that way.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_script01_1/Ses04M_script01_1_M043.wav"
+  },
+  {
+    "id": "Ses03M_script03_2_M034",
+    "emotion": [
+      "Anger",
+      "Anger",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "The real cause of that rile was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_script03_2/Ses03M_script03_2_M034.wav"
+  },
+  {
+    "id": "Ses03F_impro01_M004",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "She- she probably doesn't even work here.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_impro01/Ses03F_impro01_M004.wav"
+  },
+  {
+    "id": "Ses02F_script01_2_F012",
+    "emotion": [
+      "Anger",
+      "Frustration",
+      "Anger"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "Because if he's not coming back, I'll kill myself.  I mean, laugh--laugh at me, but...",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script01_2/Ses02F_script01_2_F012.wav"
+  },
+  {
+    "id": "Ses03M_script02_2_F011",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Anger"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "Augie, god dammit, don't ask me that.  You always ask me that.  I hate it when you ask me that.  It's insulting.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_script02_2/Ses03M_script02_2_F011.wav"
+  },
+  {
+    "id": "Ses05M_script03_2_M021",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_M",
+    "groundtruth": "oh, Snap, snap, snap.  Like a little Adder.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script03_2/Ses05M_script03_2_M021.wav"
+  },
+  {
+    "id": "Ses02M_impro06_F017",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_M",
+    "groundtruth": "Yes.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_impro06/Ses02M_impro06_F017.wav"
+  },
+  {
+    "id": "Ses04F_impro03_F008",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_F",
+    "groundtruth": "Do you remember up by Yosemite? Yeah.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_impro03/Ses04F_impro03_F008.wav"
+  },
+  {
+    "id": "Ses05M_script03_1_M004",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_M",
+    "groundtruth": "Well, so what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script03_1/Ses05M_script03_1_M004.wav"
+  },
+  {
+    "id": "Ses02M_impro07_F013",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_M",
+    "groundtruth": "",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_impro07/Ses02M_impro07_F013.wav"
+  },
+  {
+    "id": "Ses04M_script01_3_M034",
+    "emotion": [
+      "Frustration",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses04_M",
+    "groundtruth": "No, you don't.  I'm a pretty tough guy.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_script01_3/Ses04M_script01_3_M034.wav"
+  },
+  {
+    "id": "Ses02M_script03_2_F028",
+    "emotion": [
+      "Anger",
+      "Anger",
+      "Other"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_M",
+    "groundtruth": "As a matter of fact the real cause of that row was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_script03_2/Ses02M_script03_2_F028.wav"
+  },
+  {
+    "id": "Ses05M_script02_2_F017",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_M",
+    "groundtruth": "Well, so what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_script02_2/Ses05M_script02_2_F017.wav"
+  },
+  {
+    "id": "Ses02M_script01_3_F009",
+    "emotion": [
+      "Frustration",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_M",
+    "groundtruth": "What have I got to hide? What the hell is the matter with you, Kate?",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_script01_3/Ses02M_script01_3_F009.wav"
+  },
+  {
+    "id": "Ses03M_impro08a_F033",
+    "emotion": [
+      "Frustration",
+      "Frustration",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "Okay.  Sara what?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_F033.wav"
+  },
+  {
+    "id": "Ses03F_script02_1_F003",
+    "emotion": [
+      "Frustration",
+      "Anger",
+      "Anger"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_F",
+    "groundtruth": "Huh? What the hell's the matter with you, Kate?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03F_script02_1/Ses03F_script02_1_F003.wav"
+  },
+  {
+    "id": "Ses02F_script03_2_M015",
+    "emotion": [
+      "Frustration",
+      "Neutral state",
+      "Frustration"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses02_F",
+    "groundtruth": "As a matter of fact, the real cause of that row was Peter Burden.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script03_2/Ses02F_script03_2_M015.wav"
+  },
+  {
+    "id": "Ses05F_script02_2_F030",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Surprise"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses05_F",
+    "groundtruth": "Well, So what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F030.wav"
+  },
+  {
+    "id": "Ses02M_impro08_M012",
+    "emotion": [
+      "Neutral state",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_M",
+    "groundtruth": "So- So you can um find that application. You have the Internet, you can go to our website.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02M_impro08/Ses02M_impro08_M012.wav"
+  },
+  {
+    "id": "Ses01M_impro03_F017",
+    "emotion": [
+      "Happiness",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_M",
+    "groundtruth": "I don't know get it in cash.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01M_impro03/Ses01M_impro03_F017.wav"
+  },
+  {
+    "id": "Ses03M_script01_1_F036",
+    "emotion": [
+      "Anger",
+      "Sadness",
+      "Surprise"
+    ],
+    "need_prediction": "no",
+    "speaker": "Ses03_M",
+    "groundtruth": "Alright?  Great.  Have a nice evening.",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_script01_1/Ses03M_script01_1_F036.wav"
+  },
+  {
+    "id": "Ses04M_impro07_M036",
+    "emotion": [
+      "Happiness",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_M",
+    "groundtruth": "Forget it. Forget it. Forget it. No way.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04M_impro07/Ses04M_impro07_M036.wav"
+  },
+  {
+    "id": "Ses01F_impro04_F033",
+    "emotion": [
+      "Anger",
+      "Anger",
+      "Anger"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses01_F",
+    "groundtruth": "I can not-- you are not here by choice.  Nobody would ride this bus by choice.",
+    "audio": "IEMOCAP_full_release/Session1/sentences/wav/Ses01F_impro04/Ses01F_impro04_F033.wav"
+  },
+  {
+    "id": "Ses05F_impro07_M021",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_F",
+    "groundtruth": "You can't make fun of me because I'm not going to school, though, because I'm going to be working though.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_impro07/Ses05F_impro07_M021.wav"
+  },
+  {
+    "id": "Ses05M_impro03_M002",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Happiness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_M",
+    "groundtruth": "Yes, I did it.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05M_impro03/Ses05M_impro03_M002.wav"
+  },
+  {
+    "id": "Ses05F_script02_2_F014",
+    "emotion": [
+      "Sadness",
+      "Happiness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_F",
+    "groundtruth": "Well, So what do you think?",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script02_2/Ses05F_script02_2_F014.wav"
+  },
+  {
+    "id": "Ses02F_script03_1_M029",
+    "emotion": [
+      "Happiness",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses02_F",
+    "groundtruth": "The worst one was in Cannes when your curling iron burnt a hole in my new dressing gown.",
+    "audio": "IEMOCAP_full_release/Session2/sentences/wav/Ses02F_script03_1/Ses02F_script03_1_M029.wav"
+  },
+  {
+    "id": "Ses04F_impro07_M075",
+    "emotion": [
+      "Happiness",
+      "Happiness",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses04_F",
+    "groundtruth": "free buffets and free events.",
+    "audio": "IEMOCAP_full_release/Session4/sentences/wav/Ses04F_impro07/Ses04F_impro07_M075.wav"
+  },
+  {
+    "id": "Ses03M_impro08a_M021",
+    "emotion": [
+      "Neutral state",
+      "Neutral state",
+      "Neutral state"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses03_M",
+    "groundtruth": "Well, okay I'm going to give you a free phone card that you can use at any payphone and that's on us. Okay?",
+    "audio": "IEMOCAP_full_release/Session3/sentences/wav/Ses03M_impro08a/Ses03M_impro08a_M021.wav"
+  },
+  {
+    "id": "Ses05F_script01_3_F023",
+    "emotion": [
+      "Sadness",
+      "Sadness",
+      "Sadness"
+    ],
+    "need_prediction": "yes",
+    "speaker": "Ses05_F",
+    "groundtruth": "No.  You don't.  I'm a pretty tough guy.",
+    "audio": "IEMOCAP_full_release/Session5/sentences/wav/Ses05F_script01_3/Ses05F_script01_3_F023.wav"
+  }
+]

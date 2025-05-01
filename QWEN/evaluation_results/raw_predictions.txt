@@ -1,0 +1,300 @@
+1. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. Happy
+   真实: happy, 提取: neutral, 正确: False
+
+2. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: anxious, 提取: neutral, 正确: False
+
+3. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+4. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+5. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+6. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+7. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+8. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+9. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: neutral, 提取: neutral, 正确: True
+
+10. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+11. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+12. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+13. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: sad, 提取: neutral, 正确: False
+
+14. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: frustrated, 提取: neutral, 正确: False
+
+15. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+16. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: happy, 提取: neutral, 正确: False
+
+17. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+18. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+19. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+20. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+21. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+22. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+23. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+24. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+25. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+26. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+27. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+28. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+29. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+30. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+31. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+32. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+33. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+34. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+35. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+36. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+37. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+38. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+39. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: angry, 提取: neutral, 正确: False
+
+40. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: sad, 提取: neutral, 正确: False
+
+41. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: frustrated, 提取: neutral, 正确: False
+
+42. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+43. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+44. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. Happy
+   真实: happy, 提取: neutral, 正确: False
+
+45. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+46. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+47. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+48. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: sad, 提取: neutral, 正确: False
+
+49. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+50. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+51. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: sad, 提取: neutral, 正确: False
+
+52. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: sad, 提取: neutral, 正确: False
+
+53. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+54. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+55. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+56. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: surprised, 提取: neutral, 正确: False
+
+57. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+58. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: sad, 提取: neutral, 正确: False
+
+59. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+60. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+61. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+62. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+63. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: neutral, 提取: neutral, 正确: True
+
+64. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: sad, 提取: neutral, 正确: False
+
+65. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: angry, 提取: neutral, 正确: False
+
+66. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+67. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+68. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. Happy
+   真实: happy, 提取: neutral, 正确: False
+
+69. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+70. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: sad, 提取: neutral, 正确: False
+
+71. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+72. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+73. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+74. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: angry, 提取: neutral, 正确: False
+
+75. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: frustrated, 提取: neutral, 正确: False
+
+76. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+77. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: neutral, 提取: neutral, 正确: True
+
+78. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+79. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+80. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+81. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: sad, 提取: neutral, 正确: False
+
+82. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+83. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+84. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: sad, 提取: neutral, 正确: False
+
+85. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: angry, 提取: neutral, 正确: False
+
+86. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+87. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: sad, 提取: neutral, 正确: False
+
+88. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+89. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: neutral, 提取: neutral, 正确: True
+
+90. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: neutral, 提取: neutral, 正确: True
+
+91. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+92. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: happy, 提取: neutral, 正确: False
+
+93. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+94. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: happy, 提取: neutral, 正确: False
+
+95. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. happy
+   真实: happy, 提取: neutral, 正确: False
+
+96. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: happy, 提取: neutral, 正确: False
+
+97. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+
+98. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. sad
+   真实: sad, 提取: neutral, 正确: False
+
+99. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful.
+   真实: surprised, 提取: neutral, 正确: False
+
+100. 预测: Identify the emotion in this audio, Choose one from: neutral, frustrated, angry, happy, sad, anxious, surprised, fearful. neutral
+   真实: frustrated, 提取: neutral, 正确: False
+

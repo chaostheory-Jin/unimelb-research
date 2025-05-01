@@ -1,0 +1,20 @@
+准确率: 0.4362
+
+详细分类报告:
+              precision    recall  f1-score   support
+
+       angry       0.66      0.52      0.58       167
+       happy       0.68      0.25      0.37       104
+     neutral       0.32      0.90      0.47       146
+         sad       0.60      0.15      0.24       218
+
+    accuracy                           0.44       635
+   macro avg       0.57      0.46      0.41       635
+weighted avg       0.57      0.44      0.40       635
+
+
+每个类别的样本数量:
+  angry: 167 样本
+  happy: 104 样本
+  sad: 218 样本
+  neutral: 146 样本
